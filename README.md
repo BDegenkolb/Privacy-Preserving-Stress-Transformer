@@ -17,6 +17,6 @@ The [`WESAD-Dataset`](https://dl.acm.org/doi/10.1145/3242969.3242985) is used to
 
 2. To train the Transformer-model follow the notebook for the [`Transformer-model`](https://github.com/BDegenkolb/Privacy-Preserving-Stress-Transformer/blob/main/code/transformer.ipynb).
   
-  a) Run NeptuneAI cell if you want to use neptune ai, but don't forget to put your api token and project name in the "Hyperparameter" Cell
+      Run "NeptuneAI" cell if you want to use neptuneAI, but don't forget to put your api token and project name in the "Hyperparameter" cell
   
 3. Use the [`AutomatedTransformer`](https://github.com/BDegenkolb/Privacy-Preserving-Stress-Transformer/blob/main/code/AutomatedTransformer.ipynb) to train one transformer after another in a loop.
