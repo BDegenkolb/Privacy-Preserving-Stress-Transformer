@@ -17,6 +17,6 @@ The [`WESAD-Dataset`](https://dl.acm.org/doi/10.1145/3242969.3242985) is used to
 
     ```pip install -r requirements.txt```
 
-2. Download the dataset [here](https://ubicomp.eti.uni-siegen.de/home/datasets/icmi18/) and save the WESAD directory inside the [`data directory`](https://github.com/peasypi/Stress-Detection-From-Wearables/blob/main/data).
+2. Download the dataset [here](https://ubicomp.eti.uni-siegen.de/home/datasets/icmi18/) and save the WESAD directory inside the [`data directory`](https://github.com/BDegenkolb/Privacy-Preserving-Stress-Transformer/tree/main/data).
 
 3. To train the Transformer-model follow the notebook for the [`Transformer-model`](https://github.com/peasypi/Stress-Detection-From-Wearables/blob/main/code/cnn.ipynb).
